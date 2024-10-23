@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I'm currently a Computer Science student<br>at Hanoi University of Science and Technology (HUST),<br>with a passion for problem-solving, programming,<br>and learning new technologies.<br><br>💻 My areas of interest span across software development,<br>algorithms, and artificial intelligence. I enjoy applying my knowledge<br>to real-world projects and continuously challenge myself<br>to improve my skills.<br><br>🌏 Outside of coding, I immerse myself in Eastern cultures,<br>particularly their history, philosophy, and traditional arts.<br>Exploring the rich diversity of Asian traditions keeps me<br>inspired and fuels my creativity in both life and work.
+👋 Hi there!<br>I'm currently a Computer Science student at Hanoi University of Science and Technology (HUST), with a passion for problem-solving, programming, and learning new technologies.<br><br>💻 My areas of interest span across software development, algorithms, and artificial intelligence. I enjoy applying my knowledge to real-world projects and continuously challenge myself to improve my skills.<br><br>🌏 Outside of coding, I immerse myself in Eastern cultures, particularly their history, philosophy, and traditional arts. Exploring the rich diversity of Asian traditions keeps me inspired and fuels my creativity in both life and work.
 
 
 ## 🌐 Socials:
